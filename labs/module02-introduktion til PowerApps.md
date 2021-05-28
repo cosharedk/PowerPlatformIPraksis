@@ -14,5 +14,5 @@ I denne lab skal du oprette din første PowerApp ud fra en af de prædefinerede 
 6. Vælg skabelonen **Leave Request** og udfyld med følgende data:
    1. Angiv navnet **Leave Request**
    2. Vælg at formatet skal være **tablet**
-   ![alt text](./images/leaverequest.JPG)
+   ![alt text](https://github.com/cosharedk/PowerPlatformIPraksis/blob/main/labs/Images/LeaveRequest.JPG?raw=true)
 7. Tryk på **Opret** og vent på at guiden bliver færdig
