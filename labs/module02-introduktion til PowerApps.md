@@ -17,5 +17,5 @@ I denne lab skal du oprette din første PowerApp ud fra en af de prædefinerede 
    ![alt text](https://github.com/cosharedk/PowerPlatformIPraksis/blob/main/labs/Images/LeaveRequest.JPG?raw=true)
 7. Tryk på **Opret** 
 8. Tryk på *Tillad** ud for rettigheder - dette giver PowerApps lov til at anvende blandt andet Outlook
-   ![alt text](https://github.com/cosharedk/PowerPlatformIPraksis/blob/main/labs/Images/2-permissions.JPG?raw=true)
+   ![alt text](https://github.com/cosharedk/PowerPlatformIPraksis/blob/main/labs/Images/Lab2-Permissions.JPG?raw=true)
 9.  og vent på at guiden bliver færdig
